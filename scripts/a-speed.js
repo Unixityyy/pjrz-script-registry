@@ -1,5 +1,5 @@
 function tick(dt) {
-    if (RightController.AButtonPressrd) {
+    if (RightController.AButtonPressed) {
         PlayerSettings.JumpMultiplier = 8;
         PlayerSettings.MaxJumpSpeed = 50;
     }
