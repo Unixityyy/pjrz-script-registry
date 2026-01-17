@@ -1,0 +1,11 @@
+{
+  "scripts": [
+    {
+      "filename": "a_speed.js",
+      "title": "Speed Boost",
+      "author": "Unixityyy",
+      "description": "Gives you hella speed when you press the A button.",
+      "credits": ""
+    }
+  ]
+}

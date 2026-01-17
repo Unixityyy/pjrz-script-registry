@@ -1,0 +1,14 @@
+// UNITY CANNOT PARSE COMMENTS IN JSON. THATS WHY THIS IS A TEMPLATE. 
+// IF YOU PUT SOMETHING IN HERE MAKE SURE ITS VALID JSON
+// THAT UNITY CAN READ!
+{
+  "scripts": [
+    {
+      "filename": "a_speed.js", // the EXACT name of the file in the ./scripts/ directory
+      "title": "Speed Boost", // title that shows up
+      "author": "Unixityyy", // put your username here
+      "description": "Gives you hella speed when you press the A button.", // this shows when they click on ur script
+      "credits": "" // nothing to really give credit to (you would give credit to people if they worked on it with you)
+    }
+  ]
+}
