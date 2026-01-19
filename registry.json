@@ -2,9 +2,16 @@
   "scripts": [
     {
       "filename": "a-speed.js",
-      "title": "Speed Boost",
+      "title": "Huge Speed Boost",
       "author": "Unixityyy",
       "description": "Gives you hella speed when you press the A button.",
+      "credits": ""
+    },
+    {
+      "filename": "grip-speed.js",
+      "title": "Speed Boost",
+      "author": "Unixityyy",
+      "description": "Gives you regular speed boost when you hold right grip.",
       "credits": ""
     }
   ]
