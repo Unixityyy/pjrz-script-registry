@@ -4,7 +4,7 @@
 {
   "scripts": [
     {
-      "filename": "a_speed.js", // the EXACT name of the file in the ./scripts/ directory
+      "filename": "a-speed.js", // the EXACT name of the file in the ./scripts/ directory
       "title": "Speed Boost", // title that shows up
       "author": "Unixityyy", // put your username here
       "description": "Gives you hella speed when you press the A button.", // this shows when they click on ur script
